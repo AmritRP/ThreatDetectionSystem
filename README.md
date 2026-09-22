@@ -15,7 +15,7 @@ The AI-Powered Cybersecurity Threat Detection System is designed to identify and
 Clone this repository
 
 ```
-git clone https://github.com/harikishore2004/ThreatDetectionSystem.git
+git clone https://github.com/AmritRP/ThreatDetectionSystem.git
 cd ThreatDetectionSystem
 ```
 
